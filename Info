@@ -1,0 +1,3 @@
+requests.get(
+    'https://api.kik.com/v1/config',
+    auth=('<thebipolarteen>', '<6672ff04-284d-4d7d-89e5-b34a7eb28008>')
